@@ -12,6 +12,18 @@ Now make it executable by
 chmod +rwx ./background_changer.py
 ```
 
+To use the script, simply navigate to the directory of the script and type:
+
+```
+.\background_changer.py
+```
+
+or try (if the above does not work):
+```
+python background_changer.py
+python3 background_changer.py  
+```
+
 If you are using Ubuntu you can now add this script to the Ubuntu startup applications, this will give you a different background whenever you start your PC (if daily is active, it only changes the background once a day):
 
 ```
