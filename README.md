@@ -40,4 +40,4 @@ where python
 in your terminal.
 
 ### Crontab
-This script will currently not be executable in cron due to the limited environment variable, the command gsettings does not work.
+This script will currently not be executable in cron due to the limited environment variables, the command gsettings does not work.
